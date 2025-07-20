@@ -11,7 +11,7 @@ bash
 
 Run
 Copy code
-git clone <>
+git clone <https://github.com/thesachinprajapati/solar-system>
 Open the HTML File:
 
 Locate the index.html file in the project directory.
